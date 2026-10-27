@@ -1,4 +1,4 @@
-# AUCA Databases Course (COM-424.1)
+# AUCA Database Course (COM-424.1)
 
 **Student name:** Khushvaqtsho Hukumatshoev  
 **Major:** Applied Mathematics and Informatics  
